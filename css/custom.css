@@ -1,0 +1,28 @@
+@font-face {
+    font-family: iranMedium;
+    src: url(../font/IRANSansWeb_Medium.woff);
+}
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    direction: rtl;
+    font-family: iranMedium;
+}
+
+#navbar-logo{
+    width: 100px;
+}
+.servies,
+.articles{
+    background-color: #F5F6FA;
+}
+
+.footer{
+    background-color: #343A40;
+}
